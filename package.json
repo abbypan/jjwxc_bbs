@@ -1,0 +1,15 @@
+{
+  "title": "Jjwxc-BBS",
+  "id": "abbypan@gmail.com-jjwxc_bbs", 
+  "name": "jjwxc_bbs",
+  "version": "0.3.0",
+  "description": "红晋江http://bbs.jjwxc.net 网站小说的右键查询菜单",
+  "main": "index.js",
+  "author": "abbypan",
+  "icon": "data/32.png",
+  "engines": {
+    "firefox": ">=35.0",
+    "fennec": ">=35.0"
+  },
+  "license": "MIT"
+}
